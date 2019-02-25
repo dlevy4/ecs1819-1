@@ -1,0 +1,46 @@
+body {
+background-color:#ff9900;
+}
+
+#Matata {
+  border: outset 7px ;
+  border-radius: 100px;
+}
+
+div {
+font-family: 'Abril Fatface', cursive;
+
+}
+
+h2 {
+  border: solid 2px;
+  width: 370px;
+  border-left-style: none;
+  border-right-style: none;
+  border-top-style: groove;
+  border-bottom-style: groove;
+  border-bottom-color: orange;
+  border-top-color: orange;  
+}
+
+
+ol {
+  padding-left: 100px;
+  width: 470px;
+  }
+
+ol {
+  font-weight: bold;
+}
+
+ul{
+  font-weight: normal;  
+}
+
+#tableHead th{
+  border-bottom: 2px solid #cc7a00;
+}
+
+tr:nth-child(even){
+  background-color: #e68a00;
+  }

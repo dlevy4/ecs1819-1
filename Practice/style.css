@@ -1,0 +1,31 @@
+body {
+background-color:#ff8888;
+}
+
+h1 {
+
+  color:#4ac5f8; 
+  border-style:solid;
+  border-width:5px;
+  width:130px
+}
+
+h2 {
+    color: #6dd0ff;
+    font-size: 30px;
+    font-family: 'fantasy', cursive;
+}
+
+
+h3 {
+   font-family: 'ZCOOL KuaiLe', cursive;
+   background-color:#F4649A;
+   border-style:dashed double none;
+   border-width:6px;
+   border-radius: 25px;
+   width: 500px;
+}
+
+p {
+    font-family: 'Libre Barcode 128 Text', cursive; font-size:48px;
+}
