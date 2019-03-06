@@ -18,8 +18,10 @@
 }
 
 .bg-cover {
-        background-image: url("/ecs1819-1/webFinal/images/Move1") 
+        background-image: url("/images/Move1") 
     }
     
     
-body {text-align: center}
+.cardo {padding-left: -30px;
+    padding-right: -30px;
+}
