@@ -5,7 +5,6 @@
 
 #navbarlist {
     float: right;
-    height: 35px;
 }
 
 .list{
@@ -40,13 +39,15 @@
 }
 
 body{
-    background-color:#5e5e5e !important;
+    background-color:#8f8f8f !important;
 }
 
 .cards{
     height:350px;
     text-align: center;
     font-weight: bolder;
+    background-color:#5e5e5e !important;
+
 }
 
 .card-img-top
