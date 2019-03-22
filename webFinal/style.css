@@ -54,3 +54,8 @@ body{
     height:300px;
 }
 
+.sbd {
+    width: 300px;
+    transform:rotate(90deg);
+    margin: 40px;
+}
