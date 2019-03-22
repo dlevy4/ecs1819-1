@@ -1,0 +1,33 @@
+body {font-family: 'Staatliches', cursive; }
+
+#inf {
+text-align: center;
+    }
+    
+    #nav {
+    height: 35px;
+}
+
+#navbarlist {
+    float: right;
+    padding-right: 35px;
+}
+
+.navbar-brand {
+  padding-left: 19px;
+  color: #4679b3;
+}
+
+.list{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: "oswald", sans-serif;
+   font-weight: bold;
+   text-transform: uppercase;
+   font-size: 20px;
+   color: #ff0000 !important;
+}
+
+.navbar {
+  background-color: #222222;
+}
